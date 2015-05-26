@@ -34,3 +34,14 @@ Then we'll dig deeper, with a broader question:
 All the results for these questions can be visualised from graphs that are plotted using matplotlib and seaborn.
 
 The base data for this project is taken from kaggle's site train.csv
+
+## Ages of people in each class
+![alt tag](https://github.com/prabhath6/Data-analysis-of-titanic-using-python/blob/master/ages.png)
+
+
+## Survivers for each class
+![alt tag](https://github.com/prabhath6/Data-analysis-of-titanic-using-python/blob/master/survivers_based_class.png)
+
+
+## Unfavouriable conditions for survival
+![alt tag](https://github.com/prabhath6/Data-analysis-of-titanic-using-python/blob/master/unfavouriableConditions.png)
